@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Produk Motor Honda</string>
+    <string name="motorcycle_name">Nama Motor</string>
+    <string name="harga">Rp. </string>
+    <string name="image_description">Deskripsi Gambar</string>
+    <string name="about_title">About</string>
+    <string name="my_photo_description">Isnandar Humaedi</string>
+    <string name="my_name">Isnandar Humaedi</string>
+    <string name="my_email">isnandarhmd@gmail.com</string>
+    <string name="isnandar_humaedi">Isnandar Humaedi</string>
+    <string name="isnandarhmd_gmail_com">isnandarhmd@gmail.com</string>
+    <string name="info">Harga mulai</string>
+    <string name="item_image_description">Deskripsi Gambar</string>
+    <string name="textview">Nama Motor</string>
+    <string name="textviewinfo">Harga Mulai</string>
+    <string name="detail_photo">Detail Photo</string>
+    <string name="textviewharga">Rp.</string>
+    <string name="textviewdeskripsi">Deskripsi</string>
+    <string name="description">Deskripsi</string>
+    <string name="action_share">Share</string>
+    <string name="imgsplash">Gambar Splash</string>
+
+    <string-array name="data_name">
+        <item>Forza</item>
+        <item>ADV 160</item>
+        <item>PCX 160</item>
+        <item>Vario 160</item>
+        <item>Vario 125</item>
+        <item>Scoopy</item>
+        <item>Genio</item>
+        <item>BeAT Street</item>
+        <item>BeAT</item>
+        <item>BeAT Karbu</item>
+    </string-array>
+
+    <string-array name="data_harga">
+        <item>Rp. 90,313,000</item>
+        <item>Rp. 36,000,000</item>
+        <item>Rp. 32,179,000</item>
+        <item>Rp. 26,539,000</item>
+        <item>Rp. 22,500,000</item>
+        <item>Rp. 21,653,000</item>
+        <item>Rp. 18,880,000</item>
+        <item>Rp. 18,476,000</item>
+        <item>Rp. 17,820,000</item>
+        <item>Rp. 12,000,000</item>
+    </string-array>
+
+    <string-array name="data_info">
+        <item>Harga Mulai</item>
+        <item>Harga Mulai</item>
+        <item>Harga Mulai</item>
+        <item>Harga Mulai</item>
+        <item>Harga Mulai</item>
+        <item>Harga Mulai</item>
+        <item>Harga Mulai</item>
+        <item>Harga Mulai</item>
+        <item>Harga Mulai</item>
+        <item>Harga Mulai</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            Honda Forza adalah skuter matic premium dengan desain elegan dan performa mesin tangguh. Dilengkapi fitur canggih seperti smart key, lampu LED, dan sistem pengereman ABS untuk kenyamanan dan keamanan pengendara. Simulasi produknya memberikan pengalaman berkendara yang mulus dan stabil di jalan raya serta mudah dikendalikan di dalam kota.
+        </item>
+
+        <item>
+            Honda ADV 160 adalah motor petualangan serbaguna dengan mesin 160cc, teknologi canggih, desain ergonomis, dan suspensi yang nyaman untuk menaklukkan jalan berbatu. Cocok untuk menjelajahi perkotaan dan menghadapi medan off-road.
+        </item>
+
+        <item>
+            Honda PCX 160 adalah motor skuter premium dengan mesin eSP+ 160cc, fitur canggih, desain aerodinamis, dan kenyamanan berkendara yang luar biasa. Dilengkapi dengan lampu depan LED, layar instrumen digital, dan kapasitas bagasi yang luas, menjadikan PCX 160 pilihan ideal untuk perjalanan jarak jauh dan penggunaan sehari-hari di perkotaan.
+        </item>
+
+        <item>
+            Honda Vario 160 merupakan motor skuter matik premium dengan mesin 160cc, teknologi canggih, desain modern, dan kenyamanan berkendara yang maksimal. Dilengkapi dengan lampu LED, layar instrumen digital, dan fitur keselamatan seperti ABS dan Smart Key System, menjadikan Vario 160 pilihan ideal untuk perjalanan sehari-hari di perkotaan.
+        </item>
+
+        <item>
+            Honda Vario 125 merupakan motor skuter matik poppuler dengan mesin 125cc yang bertenaga, desain sporty, dan kenyamanan berkendara yang unggul. Dilengkapi dengan fitur-fitur modern seperti lampu LED, layar instrumen digital, dan fitur keselamatan seperti CBS dan Idling Stop System, menjadikan Vario 125 sebagai pilihan ideal untuk perjalanan sehari-hari di perkotaan.
+        </item>
+
+        <item>
+            Honda Scoopy adalah motor skuter matik legendaris dengan desain retro klasik dan modern, dilengkapi mesin irit bahan bakar 110cc, teknologi eSP, fitur LED dan layar instrumen digital, dan opsi penyimpanan bawah jok yang luas, cocok untuk berkendara di perkotaan dan aktivitas sehari-hari.
+        </item>
+
+        <item>
+            Honda Genio adalah motor matik stylish dan irit bertenaga 110cc dengan teknologi Enhanced Smart Power (eSP) dan Idling Stop System (ISS) untuk meningkatkan efisiensi bahan bakar. Dilengkapi fitur-fitur modern seperti lampu depan LED, panel instrumen digital, dan pembuka jok otomatis. Cocok untuk kebutuhan sehari-hari dengan gaya yang berkelas.
+        </item>
+
+        <item>
+            Honda Beat Street adalah motor bebek sporty dengan desain yang keren dan performa mesin yang tangguh. Dilengkapi dengan fitur-fitur modern seperti lampu LED, panel instrumen digital, dan sistem pengereman cakram. Cocok untuk generasi muda yang ingin tampil stylish dan dinamis dalam berkendara.
+        </item>
+
+        <item>
+            Honda Beat adalah sepeda motor tangguh dan hemat bahan bakar, dilengkapi teknologi canggih eSP dan fitur ISS untuk efisiensi yang lebih baik. Desainnya aerodinamis dan sporty, dilengkapi fitur keamanan seperti rem cakram depan dan belakang serta sistem ABS.
+        </item>
+
+        <item>
+            Honda Beat Karbu adalah sepeda motor praktis dengan mesin bertenaga 110 cc yang hemat bahan bakar. Dilengkapi dengan teknologi PGM-FI untuk performa mesin yang optimal. Fitur-fitur modern seperti lampu depan LED dan bagasi luas dengan fitur kunci ganda menjadikan Beat Karbu Honda pilihan ideal untuk perjalanan sehari-hari.
+        </item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/motor_forza</item>
+        <item>@drawable/motor_adv_160</item>
+        <item>@drawable/motor_pcx_160</item>
+        <item>@drawable/motor_vario_160</item>
+        <item>@drawable/motor_vario_125</item>
+        <item>@drawable/motor_scoopy</item>
+        <item>@drawable/motor_genio</item>
+        <item>@drawable/motor_beat_street</item>
+        <item>@drawable/motor_beat</item>
+        <item>@drawable/motor_beat_karbu</item>
+    </integer-array>
+</resources>
